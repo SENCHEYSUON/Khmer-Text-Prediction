@@ -24,7 +24,7 @@ and orthographic variants.
 ### Contact
 
 - **SUON Senchey**: https://github.com/SENCHEYSUON
-- **VEY Sreypich**: sreypichsunflower9999@gmail.com
+- **VEY Sreypich**: https://github.com/sreypich999
 - **Sem Yuthearylyhour**: https://github.com/Lyhour7777
 - **VORN Seavmey**: vornseavmey09@gmail.com
 - **VANNA Juuka**: vannajuuka638@gmail.com
