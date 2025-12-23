@@ -23,11 +23,11 @@ and orthographic variants.
 
 ### Contact
 
-- **SUON Senchey**: https://github.com/seanghay/awesome-khmer-language
-- **VEY Sreypich**: https://github.com/seanghay/awesome-khmer-language
-- **Sem Yuthearylyhour**: https://github.com/seanghay/awesome-khmer-language
-- **VORN Seavmey**: https://github.com/seanghay/awesome-khmer-language
-- **VANNA Juuka**: https://github.com/seanghay/awesome-khmer-language
+- **SUON Senchey**: https://github.com/SENCHEYSUON
+- **VEY Sreypich**: sreypichsunflower9999@gmail.com
+- **Sem Yuthearylyhour**: https://github.com/Lyhour7777
+- **VORN Seavmey**: vornseavmey09@gmail.com
+- **VANNA Juuka**: vannajuuka638@gmail.com
 
 
 
