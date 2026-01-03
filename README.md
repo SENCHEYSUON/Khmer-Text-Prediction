@@ -21,6 +21,7 @@ and orthographic variants.
 ## Reference Link's: 
 - **awesome-khmer-language By SeangHay**: https://github.com/seanghay/awesome-khmer-language
 - **Khmer-text-data By Phylypo**: https://github.com/phylypo/khmer-text-data/tree/master/oscar/seg_data
+- **Khmer-POS**: https://huggingface.co/datasets/seanghay/khPOS
 
 ### Contact
 
