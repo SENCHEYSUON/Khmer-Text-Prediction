@@ -7,6 +7,26 @@ the user types in Khmer. Will investigate both statistical and deep learning app
 examine the challenges in predicting Khmer words due to spacing issues, compound structures,
 and orthographic variants.
 
+## Installation/Dev
+
+1. Clone Repo
+```bash
+git clone https://github.com/SENCHEYSUON/Khmer-Text-Prediction.git
+cd Khmer-Text-Prediction
+```
+
+2. Optional: Create virtual environment
+```bash
+python -m venv .venv --upgrade-deps
+source .venv/bin/activate   # Linux / Mac
+.venv\Scripts\activate      # Windows
+```
+
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
 ## Key Tasks
 
 - Collect Khmer text corpus (news, social media, literature)
