@@ -19,7 +19,8 @@ and orthographic variants.
 - Evaluate accuracy and relevance of predictions
 
 ## Reference Link's: 
-- **awesome-khmer-language**: https://github.com/seanghay/awesome-khmer-language
+- **awesome-khmer-language By SeangHay**: https://github.com/seanghay/awesome-khmer-language
+- **Khmer-text-data By Phylypo**: https://github.com/phylypo/khmer-text-data/tree/master/oscar/seg_data
 
 ### Contact
 
