@@ -7,6 +7,17 @@ the user types in Khmer. Will investigate both statistical and deep learning app
 examine the challenges in predicting Khmer words due to spacing issues, compound structures,
 and orthographic variants.
 
+## Key Tasks
+
+- Collect Khmer text corpus (news, social media, literature)
+- Preprocess the data: tokenization, sentence segmentation.
+- Compare models:
+   - **N-gram language models**
+   - **RNN/LSTM/GRU models**
+   - **Transformer-based models (GPT-style, mBERT, mT5)**
+- Implement a simple demo: keyboard auto-suggestion or sentence completion
+- Evaluate accuracy and relevance of predictions
+
 ## Installation/Dev
 
 1. Clone Repo
@@ -26,17 +37,6 @@ source .venv/bin/activate   # Linux / Mac
 ```bash
 pip install -r requirements.txt
 ```
-
-## Key Tasks
-
-- Collect Khmer text corpus (news, social media, literature)
-- Preprocess the data: tokenization, sentence segmentation.
-- Compare models:
-   - **N-gram language models**
-   - **RNN/LSTM/GRU models**
-   - **Transformer-based models (GPT-style, mBERT, mT5)**
-- Implement a simple demo: keyboard auto-suggestion or sentence completion
-- Evaluate accuracy and relevance of predictions
 
 ## Reference Link's: 
 - **awesome-khmer-language By SeangHay**: https://github.com/seanghay/awesome-khmer-language
