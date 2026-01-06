@@ -1,1 +1,5 @@
 nn-torch
+khmer-nltk 
+transformers 
+sentencepiece 
+regex
