@@ -41,7 +41,11 @@ pip install -r requirements.txt
 ## Reference Link's: 
 - **awesome-khmer-language By SeangHay**: https://github.com/seanghay/awesome-khmer-language
 - **Khmer-text-data By Phylypo**: https://github.com/phylypo/khmer-text-data/tree/master/oscar/seg_data
-- **Khmer-POS**: https://huggingface.co/datasets/seanghay/khPOS
+- **GRU Code Documentation**: https://docs.pytorch.org/docs/stable/generated/torch.nn.GRU.html
+- **LSTM Code Documentation**: https://docs.pytorch.org/docs/stable/generated/torch.nn.LSTM.html
+- **GoldFish Model_khm_khmr_5mb**: https://huggingface.co/goldfish-models/khm_khmr_5mb#:~:text=Goldfish%20is%20a%20suite%20of,LLMs
+- **GoldFish Model_khm_khmr_full**: https://huggingface.co/goldfish-models/khm_khmr_full#:~:text=,7%20NVIDIA%20A6000%20GPU%20hours
+- **SeaLLMs/SeaLLM-7B-v2.5**: https://huggingface.co/SeaLLMs/SeaLLM-7B-v2.5
 
 ### Contact
 
