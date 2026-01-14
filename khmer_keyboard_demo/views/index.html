@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="km">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Khmer Smart Keyboard</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Khmer:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div>
+        <div class="brand">Khmer Smart Keyboard</div>
+        <div class="subtitle">Testing Next-word suggestions (Top-5)</div>
+      </div>
+
+      <div class="actions">
+        <button id="toggleTheme" class="iconbtn" title="Toggle theme">🌙</button>
+        <button id="clearBtn" class="ghostbtn" title="Clear text">Clear</button>
+      </div>
+    </header>
+
+    <main class="card">
+      <label class="label">Type Khmer</label>
+
+      <div class="inputWrap">
+        <textarea id="input" rows="5" placeholder="ចាប់ផ្តើមវាយអក្សរខ្មែរ..."></textarea>
+        <div class="hint">
+          Tip: click a suggestion to insert • press <b>1–5</b> to insert quickly
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="rowTitle">Suggestions</div>
+        <div id="status" class="status">Ready</div>
+      </div>
+
+      <div id="sugs" class="sugRow"></div>
+
+      <div id="skeleton" class="skeletonRow hidden">
+        <div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <span>Local demo • FastAPI + HTML/CSS/JS</span>
+    </footer>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
