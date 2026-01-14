@@ -14,7 +14,7 @@ and orthographic variants.
 - Compare models:
    - **N-gram language models**
    - **RNN/LSTM/GRU models**
-   - **Transformer-based models (GPT-style, mBERT, mT5)**
+   - **Transformer-based models (goldfish-models/khm_khmr_5mb)**
 - Implement a simple demo: keyboard auto-suggestion or sentence completion
 - Evaluate accuracy and relevance of predictions
 
